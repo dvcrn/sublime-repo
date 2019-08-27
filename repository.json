@@ -1,8 +1,8 @@
 {
 	"schema_version": "3.0.0",
 	"packages": [{
-		"name": "dvcrn-ExtendedTabSwitcher",
-		"details": "https://github.com/dvcrn/Sublime-Extended-Tab-Switcher",
+		"name": "Kirikae",
+		"details": "https://github.com/dvcrn/sublime-kirikae",
 		"releases": [{
 			"sublime_text": "*",
 			"tags": true
