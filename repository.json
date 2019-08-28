@@ -16,7 +16,7 @@
 				"sublime_text": "*",
 				"tags": true
 			}]
-		},
+		}
 	],
 	"dependencies": [],
 	"includes": []
