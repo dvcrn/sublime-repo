@@ -2,7 +2,7 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "Kirikae",
+			"name": "dvcrn - Kirikae",
 			"details": "https://github.com/dvcrn/sublime-kirikae",
 			"releases": [{
 				"sublime_text": "*",
