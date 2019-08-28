@@ -1,13 +1,23 @@
 {
 	"schema_version": "3.0.0",
-	"packages": [{
-		"name": "Kirikae",
-		"details": "https://github.com/dvcrn/sublime-kirikae",
-		"releases": [{
-			"sublime_text": "*",
-			"tags": true
-		}]
-	}],
+	"packages": [
+		{
+			"name": "Kirikae",
+			"details": "https://github.com/dvcrn/sublime-kirikae",
+			"releases": [{
+				"sublime_text": "*",
+				"tags": true
+			}]
+		},
+		{
+			"name": "dvcrn - AppleScript Extensions",
+			"details": "https://github.com/dvcrn/sublime-applescript",
+			"releases": [{
+				"sublime_text": "*",
+				"tags": true
+			}]
+		},
+	],
 	"dependencies": [],
 	"includes": []
 }
