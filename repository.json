@@ -16,6 +16,14 @@
 				"sublime_text": "*",
 				"tags": true
 			}]
+		},
+		{
+			"name": "dvcrn - SublimeLinter-json",
+			"details": "https://github.com/dvcrn/SublimeLinter-json",
+			"releases": [{
+				"sublime_text": "*",
+				"tags": true
+			}]
 		}
 	],
 	"dependencies": [],
