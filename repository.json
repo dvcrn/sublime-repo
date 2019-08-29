@@ -24,6 +24,14 @@
 				"sublime_text": "*",
 				"tags": true
 			}]
+		},
+		{
+			"name": "dvcrn - Multicommand",
+			"details": "https://github.com/dvcrn/sublime-multicommand",
+			"releases": [{
+				"sublime_text": "*",
+				"tags": true
+			}]
 		}
 	],
 	"dependencies": [],
